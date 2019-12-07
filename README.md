@@ -12,3 +12,7 @@ Map application for Android. You can display elevation information by creating m
 * Bing Maps JSON parsing
 * Using markers data to create chart
 
+## Usage
+* Put Google Maps API Key to google_map_api.xml
+* Put Bing Maps API Key to bing_map_api.xml
+* Run
