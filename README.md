@@ -1,6 +1,8 @@
 # Elevation
 Map application for Android. You can display elevation information by creating markers. Creates graph, polyline, titles.
 
+![alt text](https://raw.githubusercontent.com/stepanradaman/elevation/master/Preview.png)
+
 ## Links
 * [Google Maps API](https://developers.google.com/maps/documentation/android-sdk/intro)
 * [Bing Maps Elevations API](https://docs.microsoft.com/en-us/bingmaps/rest-services/elevations/)
